@@ -2,7 +2,7 @@
 
 # Supabase Agent Skills
 
-Agent Skills to help developers using AI agents with Supabase. Agent Skills are
+Agent Skills to help developers using AI agents with Supabase. 23yAgent Skills are
 folders of instructions, scripts, and resources that agents can discover and use
 to do things more accurately and efficiently. Compatible with 18+ AI agents
 including Claude Code, GitHub Copilot, Cursor, Cline, and many others.
